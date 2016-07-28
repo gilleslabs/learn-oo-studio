@@ -5,11 +5,11 @@ Vagrant learn-oo-studio creates ready-to-go VM for [HP-OO Studio Community Editi
 The following is an overview of the ready-to-go VMs:
 
 + **oo-studio:** Windows 2012R2 Standard VM with below component installed 
-++ **Chocolatey:** A Machine Package Manager, like apt-get for Windows.
-++ **Git**
-++ **WinRar** 
-++ **Notepad++** 
-++ **HP-OO Studio**
+ + **Chocolatey:** A Machine Package Manager, like apt-get for Windows.
+ + **Git**
+ + **WinRar** 
+ + **Notepad++** 
+ + **HP-OO Studio**
 
 ## Requirements
 
